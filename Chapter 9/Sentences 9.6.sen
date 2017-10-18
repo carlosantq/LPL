@@ -1,0 +1,1 @@
+7.2.3.24206wnds:Windows 86.2SntFC1506943538848D1506943912865S84959/x (x = a | x = b | x = c | x = d)/x (x # a & x # b & x # c & x # d & x # e)@x (x = a $ x = d)/x (Between(x, c, a) & x = b)@x (Between(x, c, a) $ x = b)/x ((Tet(x) & Medium(x)) $ x = e)@x (x = e $ (Tet(x) & Medium(x)))@x ((Tet(x) & Small(x)) % x = b)/y (y # e & SameRow(y, e))s=60394;

@@ -1,0 +1,3 @@
+7.2.3.24206macs:Mac OS X10.12.6SntFC1503273545727D1503274464406C1503354864607D1503354946620D1503354955699S160266~(Home(carl) & ~Home(claire))~Home(carl) | Home(claire)~[Happy(max) & 
+(~Likes(carl, claire) | ~Likes(claire, carl))]~Happy(max) | (Likes(carl, claire) & Likes(claire, carl))~~~[(Home(max) | Home(carl)) & 
+        (Happy(max) | Happy(carl))]( ~Home(max) & ~Home(carl)) | ( ~Happy(max) & ~Happy(carl))s=64934;

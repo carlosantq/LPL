@@ -1,0 +1,3 @@
+7.2.3.24206macs:Mac OS X10.12.6SntFC1506968917334D1506969323341C1506971290511D1506971366057D1506971366191S1585810/v BackOf(b, c)BackOf(b, c)@x Dodec(b)Dodec(b)/x (Cube(c) & Small(c))(Cube(c) & Small(c))/x @y (Tet(y) $ Small(y))@y (Tet(y) $ Small(y))
+; Get rid of the null quantifier./y @y (Tet(y) $ Small(y))@y (Tet(y) $ Small(y))
+; Which quantifier is null?s=58505;

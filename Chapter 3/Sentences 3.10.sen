@@ -1,0 +1,1 @@
+7.2.3.24206macs:Mac OS X10.12.6SntFC1502232464082D1502232814526D1502233204547S119374Between(a, b, c) | Between(b, a, c)FrontOf(a, b) | FrontOf(c, b)~SameRow(b, c) | LeftOf(b, a)RightOf(b, a) | Tet(a)s=32364;

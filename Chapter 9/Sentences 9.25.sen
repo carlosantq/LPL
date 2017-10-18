@@ -1,0 +1,1 @@
+7.2.3.24206wnds:Windows 86.2SntFC1506949642193D1506950188964D1506950410160S111325~/y Prime(y * y)/y ~Even(y * y)@y (Prime(y) $ Prime(y * y)) @y ((Prime(y) & y # 2) $ ~Even(y * y)) @y ((y > 1) $ (y * y) > y)s=33840;

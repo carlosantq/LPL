@@ -1,0 +1,1 @@
+7.2.3.24206macs:Mac OS X10.13SntFC1507489775814D1507490308570C1507592439452D1507592486400S138696@x (Cube(x) | Tet(x))@x @y ((Cube(x) & Tet(y)) $ LeftOf(x, y))/x /y /z (Tet(x) & Tet(y) & Tet(z) & x # y & y # z & x # z)@x ((Cube(x) & Small(x)) $ /y (Cube(y) & Large(y) & BackOf(x, y)))@x (Tet(x) $ Small(x))@x (Dodec(x) $ /y (Tet(y) & Smaller(x, y)))s=58459;

@@ -1,0 +1,1 @@
+7.2.3.24206wnds:Windows 86.2SntFC1506949038525D1506949570182S84925@x ~(Cube(x) & Medium(x))@x ~(FrontOf(x, b))@x (Cube(x) $ (FrontOf(x, e) | BackOf(x, e)))@x (Cube(x) $ ~Between(x, a, c))@x (SameCol(x, a) | SameCol(x, b) | SameCol(x, c))s=37615;

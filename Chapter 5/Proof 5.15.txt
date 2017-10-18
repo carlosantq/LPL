@@ -1,0 +1,1 @@
+According to the first two sentences, b and c have different shapes (b is a tetrahedron and c is a cube), so they can't be identical. The third premiss says that either c is larger than b or they are identical. They can't be identical, so we infer that c is larger than b and, as consequence, b must be smaller than c.
